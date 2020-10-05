@@ -8,6 +8,6 @@ In this minimal example, three algorithms are implemented for training recurrent
 
 The code may be reused and adapted, in which case please cite the following paper:
 
-"Local online learning in recurrent networks with random feedback" 
-James M. Murray
+"Local online learning in recurrent networks with random feedback"\
+James M. Murray\
 eLife 8:e43299 (2019)
